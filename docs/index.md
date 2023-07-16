@@ -3,7 +3,7 @@ layout: cv
 title: Jacob Campbell's Resume
 ---
 # Jacob Campbell
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+360-719-8558 | jacobus246@gmail.com
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -16,74 +16,66 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`Expected 2024`
+__Brigham Young University-Idaho__, Rexburg, ID
+Bachelor of science in biology, Biology-Bioinformatics (Still in progress)
+- 3.94 GPA
 
-- Full academic scholarship with 4.0 GPA
+``
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+## Experiential Learning Projects
 
-- 4.0 Major GPA
+### Zebrafish lab | BYU-Idaho
 
+`Sept 2022 – present`
+__Lab researcher/technology specialist__, Rexburg, ID
 
-## Related Experience
+- Coordinate with team leads to organize fish lab website, updating schedules, objectives, etc.
+- Raise zebrafish from embryo to adulthood and experiment with different feeding methods to improve fish survival rate.
+- Calibrating needles for microinjections, injecting dyes into fish embryos, and still working my way towards injecting the embryos with CRISPR knockdown of tyrosinase to breed albino zebrafish.
 
-### Internships
+### Phi Delta Research Society | BYU-Idaho
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`Sept 2022 - present`
+__Student__, Rexburg ID
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Practiced various lab techniques such as PCR, gel electrophoresis, and bacterial transformation.
+- Developed similar projects with my team to extract RNA from human cells collected via cheek swab, convert the RNA to cDNA, run PCR to amplify the cDNA, and digest that cDNA to develop a plasmid for bacterial transformation to produce human proteins in bacteria. 
+- Processed bacteria to extract specific protein targets.
 
 
-## Service and Work History
+## Work Experience
 
-`2025-2027`
-__Math Tutor__, LDSBC
+### Temple View Transitional Care Center
+
+`May 2021 - December 2023`
+__CNA__, Rexburg ID
+
+- Assisting residents with activities of daily living, eating, bathing, using the restroom, changing beds, changing briefs, etc.
+- Teaching new CNAs how to work as a CNA and how the nursing home operates, introducing them to the residents, ensuring they complete their online training.
+- Redirecting confused residents and helping them to calm down when agitated.
+
+### Amada Senior Care
+
+`Oct 2018 – Mar 2019`
+__In-home care aid__, Vancouver WA
+
+- Travelling to patients homes and assisting them with activities of daily living.
+- Assisting with transfers, meals, cleaning, and at one point a dead cat.
+
+## Other
+
+`Mar 2019`
+__Eagle Scout__, Vancouver Wa
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2019-2021`
+__Missionary For the Church of Jesus Christ of Latter-Day Saints__, Peru Lima East (Mar 2019-Mar 2020, Texas Houston South June 2020-Mar 2021)
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2023 -->
 
 
